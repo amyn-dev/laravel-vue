@@ -24,5 +24,3 @@ after install the source code open Terminal to use these command line:
 - sudo chmod -R 777 storage/app/public/images/
 
 
-## Contact me
-<a href='https://alialqahtani.com' target="_blank">about me</a>
